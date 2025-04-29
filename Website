@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile Emissions Testing - [Your Business Name]</title>
+    <meta name="description" content="Convenient mobile emissions testing services at your location.">
+</head>
+<body>
+    <header>
+        <h1>[Mobile Emissions Testing]</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="schedule.html">Schedule Now</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="hero">
+            <h2>Convenient Mobile Emissions Testing at Your Doorstep</h2>
+            <p>We bring the emissions testing service right to your home or workplace, saving you time and hassle.</p>
+            <a href="schedule.html" class="button">Schedule Your Test Now</a>
+        </section>
+
+        <section id="benefits">
+            <h3>Why Choose Us?</h3>
+            <ul>
+                <li><strong>Convenience:</strong> We come to you!</li>
+                <li><strong>Fast & Efficient:</strong> Get your testing done quickly.</li>
+                <li><strong>Certified Results:</strong> Reliable and compliant testing.</li>
+                <li><strong>Avoid Waiting:</strong> Skip the lines at traditional centers.</li>
+            </ul>
+        </section>
+
+        <section id="testimonials">
+            <h3>What Our Customers Say</h3>
+            <blockquote>
+                <p>"[Customer Name] - [Optional: City/Area] - Great service! They were on time and the process was quick and easy."</p>
+            </blockquote>
+        </section>
+    </main>
+
+    <footer>
+        <p>Call us at: [Your Phone Number] | Email: [Your Email Address] | Serving [Your Service Area]</p>
+    </footer>
+</body>
+</html>
